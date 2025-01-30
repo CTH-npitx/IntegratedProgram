@@ -1,6 +1,6 @@
-﻿namespace IntegratedProgram
+﻿namespace WindowsFormsApp1
 {
-    partial class Form1
+    partial class IntegratedProgram
     {
         /// <summary>
         /// Required designer variable.
